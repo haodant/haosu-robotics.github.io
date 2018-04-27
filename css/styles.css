@@ -24,7 +24,7 @@ header {
 a {text-decoration: none;}
 
 .view1 a {width:280px; float: left; border-right: #BBB7B7 2px solid; line-height: inherit; margin-top: 20px;}
-.view1 #labname {float: left; margin: 20px; margin-top: 64px; width: 400px;}
+.view1 #labname {float: left; margin: 20px; margin-top: 0px; width: 600px;}
 
 
   #logo {
@@ -150,7 +150,7 @@ nav {
 	border: #A2CFC9 double 2px; border-radius: 5px; 
 	}
 
-li {list-style: none; line-height: 30px; border-bottom: #F8F8F4 solid 1px;}
+li {list-style: none; line-height: 15px; border-bottom: #F8F8F4 solid 1px;}
 .navigation a {display: inline-block; color: #BBB7B7; padding: 10px; width:99%; height: inherit;} 
 .navigation li:hover {background-color: #A2CFC9;}
 .navigation li a:hover {color: #FFFFFF;}
